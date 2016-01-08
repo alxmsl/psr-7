@@ -1,0 +1,24 @@
+{
+    "name": "alxmsl/psr-7",
+    "description": "PSR-7 interfaces with strict types declarations",
+    "keywords": ["psr", "psr-7", "http", "http-message", "request", "response"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "PHP-FIG",
+            "homepage": "http://www.php-fig.org/"
+        },
+        {
+            "name": "alxmsl",
+            "email": "alexey.y.maslov@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Psr\\Http\\Message\\": "source/"
+        }
+    }
+}
