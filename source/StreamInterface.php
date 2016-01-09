@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Psr\Http\Message;
+namespace alxmsl\PSR7;
 
 /**
  * Describes a data stream.

@@ -5,10 +5,6 @@
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "PHP-FIG",
-            "homepage": "http://www.php-fig.org/"
-        },
-        {
             "name": "alxmsl",
             "email": "alexey.y.maslov@gmail.com"
         }
@@ -18,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Psr\\Http\\Message\\": "source/"
+            "alxmsl\\PSR7": "source/"
         }
     }
 }

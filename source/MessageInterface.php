@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Psr\Http\Message;
+namespace alxmsl\PSR7;
 
 /**
  * HTTP messages consist of requests from a client to a server and responses
