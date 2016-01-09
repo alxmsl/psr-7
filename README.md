@@ -1,5 +1,9 @@
 # PSR-7 interfaces
 
+[![License](https://poser.pugx.org/alxmsl/psr-7/license)](https://packagist.org/packages/alxmsl/psr-7)
+[![Latest Stable Version](https://poser.pugx.org/alxmsl/psr-7/version)](https://packagist.org/packages/alxmsl/psr-7)
+[![Total Downloads](https://poser.pugx.org/alxmsl/psr-7/downloads)](https://packagist.org/packages/alxmsl/psr-7)
+
 This repository holds all interfaces related to [PSR-7](http://www.php-fig.org/psr/psr-7/). This's fork of 
  [php-fig/http-message](https://github.com/php-fig/http-message) except usage of strict types. All interface methods 
  have strict type declarations. 
